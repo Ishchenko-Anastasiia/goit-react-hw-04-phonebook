@@ -27,7 +27,7 @@ export const Input = styled.input`
 
 export const Button = styled.button`
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
   align-items: center;
   letter-spacing: 0.04em;
